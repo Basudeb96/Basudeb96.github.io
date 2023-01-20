@@ -27,6 +27,5 @@
 	
 </div>
 
-<p>This is some text outside the div element.</p>
 </body>
 </html>
