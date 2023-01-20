@@ -20,7 +20,7 @@
 </div>
 
 <div class="mymenu">
-	<a href="https://Basudeb96.github.io/Basudeb96.github.io/Personal_Information.html" title="Personal Information"><button>Personal Information</button></a>
+	<a href="https://Basudeb96.github.io/Personal_Information.html" title="Personal Information"><button>Personal Information</button></a>
 	<button type="button">Syllabus</button>
 	
 </div>
