@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <style>
 .myDiv {
@@ -12,7 +11,6 @@
 	background-color: red;
 }
 </style>
-</head>
 <body>
 
 <div class="myDiv">
