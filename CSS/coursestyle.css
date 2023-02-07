@@ -1,0 +1,237 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	font-size: 0.85em;
+	font-family: Verdana, sans-serif; 
+	line-height: 1.5; 
+	color: #000000;
+	background-color: #F3846C;
+}
+
+#ie-hack { text-align: center; }
+
+#container {
+	text-align: left;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	width: 750px;
+	overflow: hidden;
+	background-color: #a4b3cb;
+}
+
+/* #sidebar {
+	background-color: #a4b3cb;
+	width: 120px;
+	float: left;
+}*/
+
+#content-area {
+	background-color: #FFFFFF;
+	width: 750px;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+#content {
+	margin-top: 0px;
+	padding: 20px;
+	padding-top: 5px;
+	min-height: 800px;
+}
+
+#banner {
+      margin-top: 0;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 0;
+      width: 100%;
+      height:80px;
+      overflow: hidden;
+      
+}
+
+#menu {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	font-size: 90%;
+}
+
+#menu li a{
+	border-bottom: 1px solid #e6edf7;
+	display: block;
+	text-decoration: none;
+	margin-left:10px;
+	margin-right:10px;
+	padding:5px;
+}
+#menu li a.menu-item:hover { 
+	background: #2870a8; 
+	color: #a4b3cb; 
+}
+#menu li a.menu-item {
+	color: #2870a8;
+}
+#menu li.current-item {
+	color: #205030;
+	border-bottom:1px dotted #e6edf7;
+	font-weight:bold;
+	display: block;
+	text-decoration: none;
+	margin-left:10px;
+	margin-right:10px;
+	padding:5px;
+}	
+#menu li.current-item:hover{
+	background: #2870a8;
+	color: #a4b3cb;
+}
+ul.plain {
+	list-style-type: none;
+}
+
+h2 {
+	font-size: 180%; 
+}
+h4,h5,h6 {
+	font-size: 150%;
+}
+h3 {
+   font-size: 120%;
+} 
+h2,h4,h5,h6 {
+	background-color: inherit;
+	color: #660000;
+	font-weight: normal;
+	font-family: Georgia, serif;
+	font-style: italic;
+}
+h3{
+	font-weight: normal;
+	font-family: Verdana, serif;
+}
+
+h1{
+      text-align: right;
+      padding-left: 5px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      font-weight: normal;
+      color: #FFFFFF;
+      font-size: 200%;
+      font-family: Georgia, serif;
+      font-style: plain;
+}
+
+
+#dateline {
+	font-size: 70%;
+	background-color: inherit;
+	color: #003333;
+	font-weight: normal;
+	font-family: Verdana, sans-serif;
+	font-style: normal;
+}
+a.prominent:link, a.prominent:visited, a.prominent:active,
+a.prominent:hover {
+	background-color: inherit;
+	text-decoration: none;
+	color: #ff0000;
+	font-weight: bold;
+	font-size: 125%;
+}
+	
+a:link {
+	background-color: inherit; 
+	text-decoration: none;
+	color: #003333; 
+}
+a:visited {
+	background-color: inherit; 
+	text-decoration: none;
+	color: #003333; 
+}
+a:active {
+	background-color: inherit; 
+	text-decoration: none;
+	color: #003333; 
+}
+a:hover {
+	background-color: inherit;
+	text-decoration: underline;
+       	color: #0093333;	
+}
+td.grouping {
+	font-family: Georgia, serif;
+	font-size: 110%;
+	font-style: italic; 
+	background-color: inherit;
+	color: #183070;
+}
+em {
+	font-family: Georgia, serif;
+	font-style: italic;
+	font-size: 110%;
+	color: #660000;
+}
+table#schedule {
+ 	border: 0;
+	background-color: #EEE9E9;
+        width: 700px;
+}
+tr.date-head {
+	background-color: #000033;
+	text-align: left;
+	color: #ffffff;
+}
+tr.non-talks {
+	background-color: #500000;
+	text-align: center;
+	vertical-align: top;
+	font-weight: normal;
+	color: #EEE9E9;
+}
+tr.special{
+           font-size: 85%;
+}
+tr.non-special{
+				background-color: #C0C0C0;
+				font-size: 85%;
+}
+tr.extra-special{
+				background-color:#F5F5F5;
+				font-size: 85%;
+}
+td.time-line {
+	text-align: center;
+	vertical-align: middle;	
+	font-weight: bold;
+	color: #FFFFFF;
+}
+td.time-line-nt {
+	text-align: center;
+	vertical-align: middle;	
+	font-weight: bold;
+	color: #EEE9E9;
+}
+td.time-line-t {
+	text-align: center;
+	vertical-align: middle;	
+	font-weight: bold;
+	color: #500000;
+}
+
+tr.sec-head {
+	background-color: #a4acb4;
+	text-align: right;
+	vertical-align: top;
+	font-weight: bold;
+	color: #104020;
+}
+td.talk {
+	vertical-align: top;
+}
