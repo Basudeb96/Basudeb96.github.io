@@ -21,8 +21,7 @@
 
 <div class="mymenu">
 	<a href="https://Basudeb96.github.io/Personal_Information.html" title="Personal Information"><button>Personal Information</button></a>
-	<button type="button">course</button>
-	
+	<a href="https://Basudeb96.github.io/Pages/Course.html" title="Course Details"><button>Course</button></a>
 </div>
 
 </body>
